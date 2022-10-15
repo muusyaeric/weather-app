@@ -13,5 +13,3 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 # Preview
 ![Alt text](/src/assets/Preview.PNG?raw=true)
-
-![Preview](https://user-images.githubusercontent.com/82178734/196004747-9b334a02-be57-4865-b801-cabe197e2f8a.PNG)
